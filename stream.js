@@ -10,4 +10,4 @@ client.on('ready', () => {
 client.user.setGame(`MONSTIS FACEBOOK | فى دراسة`,"http://twitch.tv/S-F")
 client.user.setStatus("dnd")
 });
-client.login(`NDE5NDc0MzY1MjQ4NDM4Mjgy.Dtnzmw.q5tO8CjL3jOsaCcKcsvcaksSl84`);
+client.login(process.env.BOT_TOKEN);
