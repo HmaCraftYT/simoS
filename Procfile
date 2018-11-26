@@ -1,1 +1,1 @@
-worker: node stream.js
+worker: node bot.js
